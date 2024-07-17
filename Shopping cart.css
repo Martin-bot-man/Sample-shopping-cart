@@ -1,0 +1,54 @@
+body{
+    background-color:rgb(184, 247, 243) ;
+    width: 600px;
+    margin: 0 auto;
+    padding:0;
+    font-family:monospace, "cursive";
+}
+form{
+    color:darkblue ;
+    font-size:22px ;
+}
+input[type="text"]{
+    background-color: bisque;
+}
+#addNeed{
+    background-color: bisque;
+    color: darkblue;
+}
+#addHave{
+    background-color: bisque;
+    color: darkblue;
+}
+h1{
+    color:darkgoldenrod;
+    font-size: 50px;
+}
+h2{
+    color:darkgoldenrod ;
+    font-size: 47px;
+    letter-spacing: 2px;
+    text-align: left;
+}
+.list{
+    color: #555;
+    font-size: 22px;
+    padding: 0 !important;
+    width: 500px;
+    border:1.3px solid #dedede;
+}
+.list l1{
+    list-style: none;
+    background-color: rgb(167, 136, 99);
+    border-bottom:1.3px dotted #ccc;
+    text-indent: 25px;
+    height: auto;
+    padding: 10px;
+    text-transform: capitalize;
+    color: rgb(58, 62, 107);
+}
+li a{
+    float: right;
+    text-decoration: none;
+    color: red;
+}
