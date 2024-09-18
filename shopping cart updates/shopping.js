@@ -1,5 +1,5 @@
 getItem = document.getElementById(addNeed)
 function(){
-    getItem.textContent = "Hey you added an item"
+    getItem.innerText = "Hey you added an item"
 }
 )
